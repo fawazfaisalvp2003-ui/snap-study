@@ -370,6 +370,10 @@ Snap & Study can be useful for students who want to:
 
 https://github.com/fawazfaisalvp2003-ui/snap-study
 
+## 🔗 Live Demo
+
+https://snap-study-vner3h7tqpyqbrbqy8p9cy.streamlit.app/
+
 ## 👨‍💻 Author
 
 **Fawaz Faisal**
